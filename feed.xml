@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
   <channel>
-    <title>Almost Human</title>
+    <title>Almost Human 365</title>
     <link>https://jteso.github.io/javier-ai-daily-0cfd40/</link>
     <atom:link href="https://jteso.github.io/javier-ai-daily-0cfd40/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Following the signal of AI news and leaving behind all the noise. 3 stories, 6 days a week, 5 minutes each. Voices are AI-generated (OpenAI). Music by Lee Rosevere (CC BY 4.0), via Free Music Archive.</description>
     <language>en</language>
-    <copyright>Almost Human</copyright>
+    <copyright>Almost Human 365</copyright>
     <lastBuildDate>Fri, 06 Nov 2026 11:41:14 +0000</lastBuildDate>
-    <image><url>https://jteso.github.io/javier-ai-daily-0cfd40/cover.jpg</url><title>Almost Human</title><link>https://jteso.github.io/javier-ai-daily-0cfd40/</link></image>
-    <itunes:title>Almost Human</itunes:title>
+    <image><url>https://jteso.github.io/javier-ai-daily-0cfd40/cover.jpg</url><title>Almost Human 365</title><link>https://jteso.github.io/javier-ai-daily-0cfd40/</link></image>
+    <itunes:title>Almost Human 365</itunes:title>
     <itunes:subtitle>Following the signal of AI news and leaving behind all the noise</itunes:subtitle>
     <itunes:summary>Following the signal of AI news and leaving behind all the noise. 3 stories, 6 days a week, 5 minutes each. Voices are AI-generated (OpenAI). Music by Lee Rosevere (CC BY 4.0), via Free Music Archive.</itunes:summary>
-    <itunes:author>Almost Human</itunes:author>
+    <itunes:author>Almost Human 365</itunes:author>
     <itunes:owner><itunes:name>Javier Teso</itunes:name><itunes:email>jtejob@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://jteso.github.io/javier-ai-daily-0cfd40/cover.jpg"/>
     <itunes:category text="Technology"/>
